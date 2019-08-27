@@ -3,7 +3,7 @@
 
 <br>
 <br>
-
+![image](http://github.com/itmyhome2013/xbgpnn/19QYcsg/images/math.jpg)
 ## 数学精英班：课堂内容 + 课堂板书
 
   
