@@ -136,8 +136,13 @@
 
 <h2><p align="center">数理化三科Tutorial小网课视频</p></h2>
 
-![image](https://github.com/xbgpnn/19QYcsg/raw/master/images/tutorial.jpg)
-<br>
+
+<div align="center">
+	<img width="500" height="350" src="images/tutorial.jpg" alt="Awesome">
+	<br>
+	<br>
+	<br>
+</div>
 
 
   ## **Tutorial文件（空白）**
