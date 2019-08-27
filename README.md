@@ -128,7 +128,11 @@
   - 物理--建设中
   - 化学--建设中
   - 英语--建设中
-
+  
+  
+<br>
+<br>
+<br>
 
 <h2><p align="center">数理化三科Tutorial小网课视频</p></h2>
 
@@ -164,7 +168,7 @@
    * [第①次Tutorial（全）--批注](Tutorial/数理化第一次tutorial--笔记.pdf)
 
    * [第②次Tutorial（知识梳理）--批注](Tutorial/数理化第二次tutorial思维导图--批注.pdf)
-   * [第②次Tutorial（全）--批注](Tutorial/数理化第二次tutorial题目--批注.pdf)
+   * [第②次Tutorial（题目讲解）--批注](Tutorial/数理化第二次tutorial题目--批注.pdf)
 
    * [第③次Tutorial（知识梳理）--批注](Tutorial/4.pdf)
    * [第③次Tutorial（题目讲解）--批注](Tutorial/数理化第三次tutorial题目--批注.pdf)
@@ -186,7 +190,7 @@
    * [第⑧次Tutorial（题目讲解）--批注](Tutorial/数理化第八次Tutorial题目练习--批注.pdf)
     
     
-  ## ** Tutorial小网课视频百度网盘链接 **
+  ## Tutorial小网课视频百度网盘链接
    * [第1-5次，密码已发至微信班级群](https://pan.baidu.com/s/1Ddhvg6CeC8lwB7E5rLVuyw)
    * [第6-9次，密码已发至微信班级群](https://pan.baidu.com/s/1GKHcsMGbY1hfLqyskKPkLA)
  
