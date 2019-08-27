@@ -1,7 +1,8 @@
 # 2019年麒跃教育初升高课程--课后补充资料下载页面
 > 麒跃初升高各科的相关资料 📝 , 都托管在这里.  
 <br>
-<h2><center> 数学 </center></h2>
+
+<h2><p align="center">数学</p></h2>
 
 ![image](https://github.com/xbgpnn/19QYcsg/raw/master/images/math.jpg)
 <br>
