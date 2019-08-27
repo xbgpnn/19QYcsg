@@ -36,7 +36,7 @@
   - 做了的带回学校给助教老师改，我也会把详细答案发给家长和孩子参考。
 
 
-      | Tables   |      Are      |  Cool |
+| Tables   |      Are      |  Cool |
 |----------|:-------------:|------:|
 | col 1 is |  left-aligned | $1600 |
 | col 2 is |    centered   |   $12 |
