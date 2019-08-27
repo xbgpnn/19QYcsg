@@ -4,7 +4,7 @@
 <br>
 <br>
 
-![image](http://github.com/xbgpnn/19QYcsg/images/math.jpg)
+![image](http://github.com/xbgpnn/19QYcsg/raw/master/images/math.jpg)
 <br>
 ## 数学精英班：课堂内容 + 课堂板书
 
